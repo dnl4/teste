@@ -2,9 +2,9 @@
 
 namespace Dnl4\Teste\Tests;
 
+use Dnl4\Teste\TesteServiceProvider;
 use Illuminate\Database\Eloquent\Factories\Factory;
 use Orchestra\Testbench\TestCase as Orchestra;
-use Dnl4\Teste\TesteServiceProvider;
 
 class TestCase extends Orchestra
 {

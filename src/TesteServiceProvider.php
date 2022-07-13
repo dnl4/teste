@@ -2,9 +2,9 @@
 
 namespace Dnl4\Teste;
 
+use Dnl4\Teste\Commands\TesteCommand;
 use Spatie\LaravelPackageTools\Package;
 use Spatie\LaravelPackageTools\PackageServiceProvider;
-use Dnl4\Teste\Commands\TesteCommand;
 
 class TesteServiceProvider extends PackageServiceProvider
 {
